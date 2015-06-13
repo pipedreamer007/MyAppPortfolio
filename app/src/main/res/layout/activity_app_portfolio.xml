@@ -36,7 +36,7 @@
         <Button
             android:layout_width="200dp"
             android:layout_height="0dp"
-            android:text="SPOTIFY STREAMER"
+            android:text="@string/btn_lbl_spotify"
             android:id="@+id/btn_Spotify"
             android:layout_gravity="center_horizontal"
             android:layout_weight="1"
@@ -47,7 +47,7 @@
         <Button
             android:layout_width="200dp"
             android:layout_height="0dp"
-            android:text="SCORES APP"
+            android:text="@string/btn_lbl_scores"
             android:id="@+id/btn_Scores"
             android:layout_gravity="center_horizontal"
             android:layout_weight="1"
@@ -58,7 +58,7 @@
         <Button
             android:layout_width="200dp"
             android:layout_height="0dp"
-            android:text="LIBRARY APP"
+            android:text="@string/btn_lbl_library"
             android:id="@+id/btn_Library"
             android:layout_gravity="center_horizontal"
             android:layout_weight="1"
@@ -69,7 +69,7 @@
         <Button
             android:layout_width="200dp"
             android:layout_height="0dp"
-            android:text="BUILD IT BIGGER"
+            android:text="@string/btn_lbl_builditbigger"
             android:id="@+id/btn_Build"
             android:layout_gravity="center_horizontal"
             android:layout_weight="1"
@@ -80,7 +80,7 @@
         <Button
             android:layout_width="200dp"
             android:layout_height="0dp"
-            android:text="XYZ READER"
+            android:text="@string/btn_lbl_xyzreader"
             android:id="@+id/btn_XYZ"
             android:layout_gravity="center_horizontal"
             android:layout_weight="1"
@@ -91,7 +91,7 @@
         <Button
             android:layout_width="200dp"
             android:layout_height="0dp"
-            android:text="CAPSTONE: MY OWN APP"
+            android:text="@string/btn_lbl_capstone"
             android:id="@+id/btn_Capstone"
             android:layout_gravity="center_horizontal"
             android:layout_weight="1"
